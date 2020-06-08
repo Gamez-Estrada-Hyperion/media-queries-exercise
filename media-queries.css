@@ -5,15 +5,31 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
+    align-items: center;
+
+
 }
 
-.alert-info hidden-on-desktop {
-    display: inline-block;
+div {
     background-color: #ccfffe;
-    border: 10px solid black;
+    color: black;
+    padding: 10px;
+
 }
+
+h1 {
+
+}
+
 
 ul {
     list-style: none;
-    justify-content:  center ;
+    display: center;
+    align-items: center;
+
+
+}
+
+a {
+
 }
