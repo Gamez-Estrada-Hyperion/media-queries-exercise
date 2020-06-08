@@ -7,9 +7,13 @@ body {
     flex-direction: column;
 }
 
-div {
-    display: flex;
+.alert-info hidden-on-desktop {
+    display: inline-block;
     background-color: #ccfffe;
-
+    border: 10px solid black;
 }
 
+ul {
+    list-style: none;
+    justify-content:  center ;
+}
