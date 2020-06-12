@@ -4,22 +4,21 @@
         background-color: #ccfffe;
         text-align: center;
         padding: 1em;
-}
+    }
 
-h1 {
-    text-align: center;
-}
+    h1 {
+        text-align: center;
+    }
 
-nav {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 
-.nav-links {
-    padding: 0;
-}
-
+    .nav-links {
+        padding: 0;
+    }
 
 }
 ul {
@@ -28,7 +27,6 @@ ul {
     width: 100%
 }
 
-<<<<<<< HEAD
 li {
     background-color: lightgrey;
     padding: 1em;
@@ -44,13 +42,6 @@ footer {
 
 /*desktop*/
 @media screen and (min-width: 700px) {
-=======
-div {
-
-    color: black;
-    padding-top: 1em;
-    align-content:  center;
->>>>>>> df9690287b5750805083e623ebb6d3149c386221
 
     .alert-info {
         display: none;
@@ -63,23 +54,22 @@ div {
     }
 
     nav {
-       float: right;
+        float: right;
     }
 
 
     ul {
 
-    list-style: none;
-    text-align: center;
-    width: 100%
+        list-style: none;
+        text-align: center;
+        width: 100%
     }
 
-<<<<<<< HEAD
     li {
-    display: inline-block;
-    padding: 1em;
-    margin: 1em;
-    background-color: white;
+        display: inline-block;
+        padding: 1em;
+        margin: 1em;
+        background-color: white;
     }
 
 
@@ -105,56 +95,5 @@ div {
     #social-media-links {
         float: right;
     }
-=======
-}
 
-
-a{
-    display: inline-block;
-    font-size: 2em;
-}
-
-li{
-    margin:1em;
-    padding:1em 15em;
-    background-color: gray;
-    align-content: center;
-}
-
-div a{
-    text-decoration: none;
-    padding:1em 5em;
-    align-content: center;
-    background-color: #ccfffe;
-    align-self: center;
-    border: 1px solid gray;
-
-}
-
-#main{
-    padding-top: 2em;
-}
-
-.sub-section{
-
-    padding-top: 5em;
-}
-
-
-h2{
-    padding-left: 1em;
-}
-
-p{
-    margin:0 1em;
-    justify-content: center;
-}
->>>>>>> df9690287b5750805083e623ebb6d3149c386221
-
-footer{
-    margin-right: auto;
-    display: inline-flex;
-    font-size: 2.5em;
-    padding-top:5em;
-    padding-bottom: 1em;
 }
